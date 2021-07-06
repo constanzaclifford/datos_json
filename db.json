@@ -1,0 +1,26 @@
+    [ {
+        "nombre" : "Javascript",
+        "avatar" :"https://ayudawp.com/wp-content/uploads/2017/01/javascript-logo-escudo.png"
+    },{
+        "nombre" : "CSS",
+        "avatar" : "https://midu.dev/images/tags/css.png"
+    },{
+        "nombre" : "HTML5",
+        "avatar" : "https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/184/landscape/html5.png"
+    },{
+        "nombre" : "Bootstrap",
+        "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png"
+    },{
+        "nombre" : "jQuery",
+        "avatar" : "https://creativo-websolutions.com/my_files/2020/04/iconfinder_jquery_3069646.png"
+    },{
+        "nombre" :"Ajax",
+        "avatar" : "https://freepngdesign.com/content/uploads/images/p-1603-8-ajax-logo-png-transparent-logo-511266993997.png"
+    },{
+        "nombre" : "Wordpress",
+        "avatar" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wordpress_Blue_logo.png/1200px-Wordpress_Blue_logo.png"
+    },{
+        "nombre" : "PHP",
+        "avatar" : "https://img2.freepng.es/20190612/cip/kisspng-logo-mysql-organization-php-clip-art-php-sorusuna-uyun-ekilleri-pulsuz-ykle-be-5d01a8a69847c2.0126441615603897986238.jpg"
+    }
+    ]    
